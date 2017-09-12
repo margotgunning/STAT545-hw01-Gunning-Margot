@@ -19,7 +19,7 @@
   
   
   
-###My progress report
+### My progress report
 1. I cloned the repo, and used version control to open it in RStudio.  I edited the README, and the RMarkdown files in RStudio, using save/commit/push to update in GitHub.
 
 2. I used the Markdown Cheatsheet for some help with syntax.
