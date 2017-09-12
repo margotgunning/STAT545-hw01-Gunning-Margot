@@ -18,15 +18,17 @@
   * *Sign-off*:  I'm Margot Gunning, and this has been STAT545-hw01.  Notes from today's broadcast can be found at http://stat545.com/.  Have a pleasent day.
   
   
-  
-### My progress report
+
+
+
+##### My progress report
 1. I cloned the repo, and used version control to open it in RStudio.  I edited the README, and the RMarkdown files in RStudio, using save/commit/push to update in GitHub.
 
 2. OVerall, it was pretty easy as I have coded in R, and used GitHub before.  I used the Markdown Cheatsheet for some help with syntax.
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
-#### Proud to be from BC
+###### Proud to be from BC
 https://youtu.be/gjfUkxqDDNw
 
  
