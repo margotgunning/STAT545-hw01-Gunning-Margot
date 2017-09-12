@@ -1,21 +1,21 @@
 # STAT545-hw01-Gunning-Margot
 
 ## The Basic Stuff
-  * *name*: Margot Gunning
-  * *birthday*: June 1, 1995 (I'm a Gemini) :wink:
-  * *hometown*: Tsawwassen, BC
+  * *Name*: Margot Gunning
+  * *Birthday*: June 1, 1995 (I'm a Gemini) :wink:
+  * *Hometown*: Tsawwassen, BC
 
 ## The Fun Stuff
-  * *favourite nail polish colour*: The I's Have it (OPI)
-  * *bigest pet, peve*: grammatically incorrect sentences with improper spelling
-  * *animal preference*: doggos :dog:
+  * **Favourite Nail Polish Colour**: The I's Have it (OPI)
+  * **Bigest pet, peve**: grammatically incorrect sentences with improper spelling
+  * **Animal Preference**: doggos :dog:
 
 ## The School Stuff
-  * *undergrad*: Queen's University :crown:, Biochemistry 
-  * *grad*: UBC, Bioinformatics
+  * *Undergrad*: Queen's University :crown:, Biochemistry 
+  * *Grad*: UBC, Bioinformatics
 
 ## The Last Stuff
-  * *sign off*:  I'm Margot Gunning, and this has been STAT545-hw01.  Notes from today's broadcast can be found at http://stat545.com/.  Have a pleasent day.
+  * *Sign-off*:  I'm Margot Gunning, and this has been STAT545-hw01.  Notes from today's broadcast can be found at http://stat545.com/.  Have a pleasent day.
   
   
   
