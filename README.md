@@ -1,6 +1,5 @@
 # STAT545-hw01-Gunning-Margot
 
-
 ## The Basic Stuff
   * *name*: Margot Gunning
   * *birthday*: June 1, 1995 (I'm a Gemini) :wink:
