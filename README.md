@@ -2,7 +2,7 @@
 
 ## The Basic Stuff
   * *Name*: Margot Gunning
-  * *Birthday*: June 1, 1995 (I'm a Gemini) :wink:
+  * *Birthday*: June 1, 1995 (I'm a Gemini) :wink: :gemini:
   * *Hometown*: Tsawwassen, BC
 
 ## The Fun Stuff
