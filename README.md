@@ -15,4 +15,4 @@
   * *grad*: UBC, Bioinformatics
 
 ## The Last Stuff
-  * *sign off*:  I'm Margot Gunning, and this has been STAT545-hw01.  Notes from today's broadcast can be found at [http://stat545.com/].  Have a pleasent day.
+  * *sign off*:  I'm Margot Gunning, and this has been STAT545-hw01.  Notes from today's broadcast can be found at http://stat545.com/.  Have a pleasent day.
