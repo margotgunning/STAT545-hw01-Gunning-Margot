@@ -1,5 +1,7 @@
-# STAT545-hw01-Gunning-Margot
+Alt-H1 
 =====
+STAT545-hw01-Gunning-Margot
+
 
 ## The Basic Stuff
   * *name*: Margot Gunning
