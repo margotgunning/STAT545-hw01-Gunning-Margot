@@ -1,6 +1,4 @@
-Alt-H1 
-=====
-STAT545-hw01-Gunning-Margot
+# STAT545-hw01-Gunning-Margot
 
 
 ## The Basic Stuff
@@ -11,10 +9,10 @@ STAT545-hw01-Gunning-Margot
 ## The Fun Stuff
   * *favourite nail polish colour*: The I's Have it (OPI)
   * *bigest pet, peve*: grammatically incorrect sentences with improper spelling
-  * *animal preference*: doggos
+  * *animal preference*: doggos :dog:
 
 ## The School Stuff
-  * *undergrad*: Queen's University, Biochemistry :crown:
+  * *undergrad*: Queen's University :crown:, Biochemistry 
   * *grad*: UBC, Bioinformatics
 
 ## The Last Stuff
