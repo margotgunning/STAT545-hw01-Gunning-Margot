@@ -11,7 +11,7 @@ output: github_document
 
 ###A. First we shall load the necessary libraries:
 
-```{r}
+```{r load libraries}
 library(gapminder)
 library(tidyverse)
 
@@ -23,7 +23,7 @@ library(tidyverse)
   * Funcions that I did not previously know: str, and glimpse
     * I found str very helpful
 
-```{r}
+```{r inital exploratory analysis of structure}
 gapminder
 head(gapminder)
 tail(gapminder)
@@ -40,7 +40,7 @@ nrow(gapminder)
 
 ###C. Now, we PLOT!
 
-```{r}
+```{r plotting}
 plot(lifeExp ~ year, gapminder)
 plot(lifeExp ~ gdpPercap, gapminder)
 plot(lifeExp ~ log(gdpPercap), gapminder)

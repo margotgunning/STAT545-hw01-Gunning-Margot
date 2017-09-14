@@ -161,19 +161,19 @@ nrow(gapminder)
 plot(lifeExp ~ year, gapminder)
 ```
 
-![](STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-3-1.png)
+![](STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/plotting-1.png)
 
 ``` r
 plot(lifeExp ~ gdpPercap, gapminder)
 ```
 
-![](STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-3-2.png)
+![](STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/plotting-2.png)
 
 ``` r
 plot(lifeExp ~ log(gdpPercap), gapminder)
 ```
 
-![](STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-3-3.png)
+![](STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/plotting-3.png)
 
 Section Two:
 ------------
