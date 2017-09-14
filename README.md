@@ -23,8 +23,8 @@
 
 1: STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/
   * has the png files for the figures
-  
-  ./STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/
+
+[Link for 1](https://github.com/margotgunning/STAT545-hw01-Gunning-Margot/tree/master/STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers)
   
 2: STAT545-hw01-RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/
   * has the png files for the figures
