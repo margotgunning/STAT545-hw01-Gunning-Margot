@@ -42,6 +42,7 @@ x <- log(seq(1,20,1))
 y <- seq(1,20,1)
 plot(x,y, 
      type = "l", 
+     col = "red",
      xlab = "Instances of profanity screamed across the open office plan", 
      ylab = "Lenght of time I spend continously coding (hr)", 
      main = "Lab life", 
