@@ -19,6 +19,12 @@
   
   
 
+### Other Files in This repo
+
+1: Tester R Markdown from class
+
+2: Terster R Markdown for gapminder from class
+
 
 
 ##### My progress report
