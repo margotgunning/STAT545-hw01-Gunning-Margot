@@ -19,11 +19,14 @@
   
   
 
-### Other Files in This repo
+### Other Files in this repo
 
-1: Tester R Markdown from class
-
-2: Terster R Markdown for gapminder from class
+1: STAT545-hw01-RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/
+  * has the png files for the figures
+  
+2: STAT545-hw01-RMarkdown-Gunning-Margot.Rmd
+3: STAT545-hw01-RMarkdown-Gunning-Margot.md
+4: 
 
 
 
