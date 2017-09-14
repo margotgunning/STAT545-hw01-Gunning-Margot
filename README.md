@@ -15,7 +15,7 @@
   * *Grad*: UBC, Bioinformatics
 
 ## The Last Stuff
-  * *Sign-off*:  I'm Margot Gunning, and this has been STAT545-hw01.  Notes from today's broadcast can be found at http://stat545.com/.  Have a pleasent day.
+  * *Sign-off*:  I'm Margot Gunning, and this has been STAT545-hw01.  Notes from today's broadcast can found [here](http://stat545.com/).  Have a pleasent day.
   
   
 
@@ -41,6 +41,7 @@
 [Link for 4](https://github.com/margotgunning/STAT545-hw01-Gunning-Margot/blob/master/STAT545-hw01-Mind%20the%20Gap%20RMarkdown-Gunning-Margot.Rmd)
 
 5: STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot.md 
+
 [Link for 5](https://github.com/margotgunning/STAT545-hw01-Gunning-Margot/blob/master/STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot.md)
 
 6: STAT545-hw01-RMarkdown-Gunning-Margot.Rmd
