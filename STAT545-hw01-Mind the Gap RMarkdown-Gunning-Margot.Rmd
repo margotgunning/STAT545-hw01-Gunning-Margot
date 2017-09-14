@@ -1,0 +1,64 @@
+---
+title: "STAT545-hw01-Mind the Gap RMarkdown-Gunning-Margot"
+author: "Margot Gunning"
+output: github_document
+---
+
+
+# This is my Homework Gapminder file
+
+## Section One:
+
+###A. First we shall load the necessary libraries:
+
+```{r}
+library(gapminder)
+library(tidyverse)
+
+```
+
+
+###B. Next we shall explore the data structure with multiple functions
+
+  * Funcions that I did not previously know: str, and glimpse
+    * I found str very helpful
+
+```{r}
+gapminder
+head(gapminder)
+tail(gapminder)
+str(gapminder)
+summary(gapminder)
+glimpse(gapminder)
+names(gapminder)
+ncol(gapminder)
+length(gapminder)
+dim(gapminder)
+nrow(gapminder)
+
+```
+
+###C. Now, we PLOT!
+
+```{r}
+plot(lifeExp ~ year, gapminder)
+plot(lifeExp ~ gdpPercap, gapminder)
+plot(lifeExp ~ log(gdpPercap), gapminder)
+
+```
+
+##Section Two:
+
+###D. Extra Notes:
+
+1. data types: LOGICAL, INTEGER, DOUBLE, CHARACTER, FACTOR
+2. class: data that has a defined structure ie) dataframe, matrix, lists
+
+
+
+
+
+
+
+
+
