@@ -21,22 +21,24 @@
 
 ### Other Files in this repo
 
-(STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/)
+1: STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/
   * has the png files for the figures
   
-(STAT545-hw01-RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers)
+  ./STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/
+  
+2: STAT545-hw01-RMarkdown-Gunning-Margot_files/figure-markdown_github-ascii_identifiers/
   * has the png files for the figures
   
-(STAT545-hw01-Gunning-Margot.Rproj)
+3: STAT545-hw01-Gunning-Margot.Rproj
   * I pushed the RPorject up as well as I was curious to see how it would load
   
-(STAT545-hw01-Mind the Gap RMarkdown-Gunning-Margot.Rmd)
+4: STAT545-hw01-Mind the Gap RMarkdown-Gunning-Margot.Rmd
 
-(STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot.md)
+5: STAT545-hw01-Mind_the_Gap_RMarkdown-Gunning-Margot.md 
 
-(STAT545-hw01-RMarkdown-Gunning-Margot.Rmd)
+6: STAT545-hw01-RMarkdown-Gunning-Margot.Rmd
 
-(STAT545-hw01-RMarkdown-Gunning-Margot.md)
+7: STAT545-hw01-RMarkdown-Gunning-Margot.md
 
 
 
